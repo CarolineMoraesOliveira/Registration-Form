@@ -1,5 +1,5 @@
 # Registration-Form
-  A very practical repository form that requests: 
+  A very practical registration form that requests: 
   First Name + last name*+
   Email address*+
   Password*+
