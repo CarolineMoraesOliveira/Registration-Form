@@ -1,6 +1,6 @@
 # Registration-Form
   A very practical registration form that requests: 
-  First Name + last name*+
+  First Name + Last name*+
   Email address*+
   Password*+
   Birthday date+
